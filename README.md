@@ -9,3 +9,18 @@ Welcome to Day 1 of your journey to learn web development! Here are today's task
 - Complete the course on Coursera: [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn)
 
 You can start with the videos and then dive into the course. Happy learning!
+## Day 2 - Learning Web Development
+
+Welcome to Day 2 of my journey to learn web development! Here are today's tasks:
+
+1. Watch Active Recall Method: Video 1
+2. Watch Spaced Repetition Technique: Video 2
+3. Complete the course on Coursera: Learning How to Learn
+
+Additionally, I will work on the following hands-on project:
+- Build HTML for BBC Website. It doesn't need to look like the image; you just need to create the HTML structure with no CSS.
+  - Use MDN (Mozilla Developer Network) as a reference.
+  - Read Shay Howe's "Learn to Code" (all 12 chapters) to enhance my HTML skills.
+
+Stay tuned for updates on my progress and code repository!
+
