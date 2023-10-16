@@ -29,3 +29,12 @@ I will work on the following hands-on project:
 Read Learn layout.
 
 Stay tuned for updates on my progress and code repository!
+## Day 4 - Learning Web Development
+
+Welcome to Day 4 of my journey to learn web development! Here are today's tasks:
+
+I would study shayhowe website and read all the 12 articles:
+- Finish Khan Academy and Tech Crunch from class 3, HTML only
+Read Learn layout.
+
+Stay tuned for updates on my progress and code repository!
