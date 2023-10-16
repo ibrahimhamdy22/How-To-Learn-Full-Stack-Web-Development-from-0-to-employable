@@ -34,7 +34,7 @@ Stay tuned for updates on my progress and code repository!
 Welcome to Day 4 of my journey to learn web development! Here are today's tasks:
 
 I would study shayhowe website and read all the 12 articles:
-- Finish Khan Academy and Tech Crunch from class 3, HTML only
-Read Learn layout.
+- Finish BBC website
+- Finish TechCrunch website UI
 
 Stay tuned for updates on my progress and code repository!
