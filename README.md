@@ -37,5 +37,10 @@ I would study shayhowe website and read all the 12 articles:
 - Finish BBC website
 - Finish TechCrunch website UI
 - Finish Khan Academy website UI
-
-Stay tuned for updates on my progress and code repository!
+## Day 5 - learning web development
+-Stay tuned for updates on my progress and code repository!
+- -Finish Simple Site Lab, HTML and CSSCLASS 4
+- Do five minute typing testCLASS 4
+- Practice typingCLASS 4
+- *Complete the Three Layouts from class 5, HTML and CSS. Layout 1, Layout 2, Layout 3CLASS 5
+- Read Shay Howe: Responsive DesignCLASS 5
