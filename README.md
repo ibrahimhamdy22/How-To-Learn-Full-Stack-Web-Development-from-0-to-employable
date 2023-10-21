@@ -51,3 +51,11 @@ I would study shayhowe website and read all the 12 articles:
 - Practice typingCLASS 4
 - *Complete the Three Layouts from class 5, HTML and CSS. Layout 1, Layout 2, Layout 3CLASS 5
 - Read Shay Howe: Responsive DesignCLASS 5
+- Day 6 - learning web development
+-Stay tuned for updates on my progress and code repository!
+## Day 7 : 
+-Finish Simple Site Lab, HTML and CSSCLASS 4
+Do five minute typing testCLASS 4
+Practice typingCLASS 4
+*Complete the Three Layouts from class 5, HTML and CSS. Layout 1, Layout 2, Layout 3CLASS 5
+Read Shay Howe: Responsive DesignCLASS 5
