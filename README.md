@@ -86,3 +86,10 @@ Do five minute typing testCLASS 4
 Practice typingCLASS 4
 *Complete the Three Layouts from class 5, HTML and CSS. Layout 1, Layout 2, Layout 3CLASS 5
 Read Shay Howe: Responsive DesignCLASS 5
+## Day  :9
+-Finish Simple Site Lab, HTML and CSSCLASS 4
+Do five minute typing testCLASS 4
+Practice typingCLASS 4
+*Complete the Three Layouts from class 5, HTML and CSS. Layout 1, Layout 2, Layout 3CLASS 5
+Read Shay Howe: Responsive DesignCLASS 5
+
