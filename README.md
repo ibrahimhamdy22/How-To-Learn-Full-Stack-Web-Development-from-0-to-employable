@@ -106,3 +106,4 @@ Practice typingCLASS 5
 Read Shay Howe: Responsive DesignCLASS 5
 # Make something new
 ## would you try these skills before considering it?
+try this too
