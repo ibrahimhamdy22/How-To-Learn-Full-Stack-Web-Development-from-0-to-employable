@@ -21,7 +21,7 @@ I will work on the following hands-on project:
 Stay tuned for updates on my progress and code repository!
 
 3--
-
+###new\
 ## Day 3 - Learning Web Development
 
 Welcome to Day 3 of my journey to learn web development! Here are today's tasks:
