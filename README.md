@@ -101,6 +101,7 @@ Practice typingCLASS 5
 *Complete the Three Layouts from class 5, HTML and CSS. Layout 2, Layout 5, Layout 3CLASS 5
 Read Shay Howe: Responsive DesignCLASS 5
 ## what about shayhowe2  💯
+#asd
 -Finish Simple Site Lab, HTML and CSSCLASS 5
 Do five minute typing testCLASS 5
 Practice typingCLASS 5
