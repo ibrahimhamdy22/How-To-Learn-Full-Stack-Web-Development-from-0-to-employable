@@ -26,7 +26,7 @@ Stay tuned for updates on my progress and code repository!
 
 
 Welcome to Day 3 of my journey to learn web development! Here are today's tasks:
-
+#new
 I will work on the following hands-on project:
 - Finish Khan Academy and Tech Crunch from class 3, HTML only
 Read Learn layout.
