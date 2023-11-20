@@ -9,6 +9,7 @@ Welcome to Day 1 of your journey to learn web development! Here are today's task
 - Complete the course on Coursera: [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn)
 
 You can start with the videos and then dive into the course. Happy learning!
+https://flexboxfroggy.com/
 ## Day 2 - Learning Web Development
 
 Welcome to Day 2 of my journey to learn web development! Here are today's tasks:
