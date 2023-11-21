@@ -41,6 +41,7 @@ I would study shayhowe website and read all the 12 articles:
 - Finish BBC website
 - Finish TechCrunch website UI
 - Finish Khan Academy website UI
+- learnlayout.com
 ## Day 5 - learning web development
 -Stay tuned for updates on my progress and code repository!
 - -Finish Simple Site Lab, HTML and CSSCLASS 4
