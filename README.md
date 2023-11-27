@@ -20,6 +20,7 @@ I will work on the following hands-on project:
   - Read Shay Howe's "Learn to Code" (all 12 chapters) to enhance my HTML skills.[link](https://learn.shayhowe.com/)
 
 Stay tuned for updates on my progress and code repository!
+---
 
 3--
 ###new\
