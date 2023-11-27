@@ -33,6 +33,7 @@ I will work on the following hands-on project:
 Read Learn layout.
 
 Stay tuned for updates on my progress and code repository!
+NEW WIGGLE
 learnhowtolearn 
 ## Day 4 - Learning Web Development
 
