@@ -39,6 +39,7 @@ learnhowtolearn
 ## Day 4 - Learning Web Development
 
 Welcome to Day 4 of my journey to learn web development! Here are today's tasks:
+#newchallenge
 
 I would study shayhowe website and read all the 12 articles:
 - Finish BBC website
