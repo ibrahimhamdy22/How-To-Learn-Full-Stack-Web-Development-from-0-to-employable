@@ -21,7 +21,7 @@ I will work on the following hands-on project:
 
 Stay tuned for updates on my progress and code repository!
 ---
-
+new month and day 1 counter
 3--
 ###new\
 ## Day 3 - Learning Web Development#w3
