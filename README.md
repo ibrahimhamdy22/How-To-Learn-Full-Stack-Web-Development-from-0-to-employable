@@ -13,6 +13,7 @@ https://flexboxfroggy.com/
 ## Day 2 - Learning Web Development
 
 Welcome to Day 2 of my journey to learn web development! Here are today's tasks:
+aderd
 sa
 I will work on the following hands-on project:
 - Build HTML for BBC Website. It doesn't need to look like the image; you just need to create the HTML structure with no CSS.
