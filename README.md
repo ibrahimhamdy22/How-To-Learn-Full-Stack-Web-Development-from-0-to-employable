@@ -47,6 +47,7 @@ jhkjjkh
 
 
 I would study shayhowe website and read all the 12 articles:
+ftf
 - Finish BBC website
 - Finish TechCrunch website UI
 - Finish Khan Academy website UI
